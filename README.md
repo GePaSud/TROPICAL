@@ -2,7 +2,7 @@
 
 ## Description
 
-TROPICAL is a unique French Natural Language Processing (NLP) dataset designed specifically for sentiment analysis of tourist reviews. Comprising a collection of tourist reviews sourced from [TripAdvisor](https://www.tripadvisor.com/), the focus of this dataset is on accommodation experiences in French Polynesia. Our goal with TROPICAL is to drive forward research and advancements in the sentiment analysis field for the French language.
+TROPICAL is a unique French Natural Language Processing (NLP) dataset designed specifically for sentiment analysis of tourist reviews. Comprising a collection of tourist reviews sourced from [TripAdvisor](https://www.tripadvisor.com/), the focus of this dataset is on accommodation experiences in French Polynesia. Our goal with TROPICAL is to drive forward research and advancements in the sentiment analysis field for the French language by providing this dataset.
 
 The repository houses the TROPICAL dataset, featuring `1592` distinct comments and a total of `10729` sentiment triplets. The data has been structured into two mutually exclusive subsets, characterized by the presence or absence of overlapping triplets, where the aspect or opinion of a triplet is found within another triplet of the same comment.
 
@@ -32,4 +32,4 @@ For in-depth understanding of the methodologies employed in the collation and pr
 
 ## HuggingFace 
 
-In addition to this repository, TROPICAL, along with its related subsets, is also conveniently accessible via the [Hugging Face]() platform.
+In addition to this repository, TROPICAL, along with its related subsets, is also conveniently accessible via the [Hugging Face](https://huggingface.co/datasets/GePaSud/TROPICAL) platform.
